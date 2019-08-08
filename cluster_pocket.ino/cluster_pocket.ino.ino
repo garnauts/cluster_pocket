@@ -20,5 +20,5 @@ void loop()
   else 
     ang = 45;
   s.write(ang);
-  delay(4300);
+  delay(4400);
 }
